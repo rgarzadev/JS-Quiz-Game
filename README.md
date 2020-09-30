@@ -4,8 +4,8 @@ Quiz Game
 
 ## Project Links:
 
-Github Pages: https://rgarzadev.github.io/Quiz-Game<br>
-Github Repository: https://github.com/rgarzadev/Quiz-Game
+Github Pages: https://rgarzadev.github.io/JS-Quiz-Game<br>
+Github Repository: https://github.com/rgarzadev/JS-Quiz-Game
 
 ### Description:
 
